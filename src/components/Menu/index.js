@@ -1,7 +1,6 @@
-import React from './node_modules/react';
+import React from 'react'
 import Logo from '../../asserts/img/ufoflix.png'
 import './menu.css'
-// import ButtonLink from '../buttonLink';
 import Button from '../Button'
 function Menu() {
     return (
