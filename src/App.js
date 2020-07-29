@@ -12,9 +12,9 @@ function App() {
       <Menu />
       
       <BannerMain 
-        videoTitle="Alienígenas do Passado - Segredos dos exoplanetas"
-        videoDescription ="No Egito se escondem muitos dos mistérios maiores da humanidade. Descubra tudo sobre alguns dos personagens mais significantes da história."
-        url="https://www.youtube.com/watch?v=eLHzUazQzro"
+        videoTitle="Alienígenas do Passado - O Mistério de Nan Madol"
+        videoDescription ="Giorgio Tsoukalos explora uma série de pequenas ilhas na Micronésia construídas usando 250 milhões de toneladas de rochas vulcânicas. As lendas locais mencionam visitantes estranhos que fizeram as rochas flutuarem para formá-las."
+        url="https://www.youtube.com/watch?v=S57KNsVG8_A&t=2170s"
       />
       
       { data.categorias.map(item => <Carousel category = {item}/>) }
