@@ -1,10 +1,10 @@
 import React from 'react';
-import Menu from './components/Menu'
-import Footer from './components/Footer'
-import BannerMain from './components/BannerMain'
-import Carousel from './components/Carousel'
+import Menu from '../../components/Menu'
+import Footer from '../../components/Footer'
+import BannerMain from '../../components/BannerMain'
+import Carousel from '../../components/Carousel'
 
-import data from './data/dados_iniciais.json'
+import data from '../../data/dados_iniciais.json'
 
 function App() {
   return (
